@@ -15,13 +15,13 @@ To write your first pogram you have to open the file <code> base.php </code>.   
 
 <code>  
     
-    <p> public function index()</p>
-    <p>{</p>
-    <p>$this->registerFunction(new TestFunction("test"));</p>
-    <p>$this->registerHeader(new TestHeader());</p>
-    <p>$this->registerListener(new Listener(new TestEvent()));</p>
-    <p>/** this is executed when boot.php */</p>
-    <p>}</p>
+     public function index()<
+    {
+    $this->registerFunction(new TestFunction("test"));
+    $this->registerHeader(new TestHeader());
+    $this->registerListener(new Listener(new TestEvent()));
+    /** this is executed when boot.php */
+    }</p>
 
 </code>
 
