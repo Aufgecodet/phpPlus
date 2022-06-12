@@ -33,5 +33,5 @@ Currently phpPlus is in version 0.1 and in BETA therefore it may still have bugs
 
 
 
-<img src= "https://cloud.githubusercontent.com/assets/6291467/26705903/96c2d66e-477c-11e7-9f4e-f3c0efe96c9a.png">   Join our<a href = "https://discord.gg/zjFpVGzXxM">Discord</a> right now to not miss anything!
+<img src= "https://cloud.githubusercontent.com/assets/6291467/26705903/96c2d66e-477c-11e7-9f4e-f3c0efe96c9a.png">   Join our <a href = "https://discord.gg/zjFpVGzXxM">Discord</a> right now to not miss anything!
 
