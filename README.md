@@ -15,7 +15,7 @@ To write your first pogram you have to open the file <code> base.php </code>.   
 
 <code>  
     
-     public function index()<
+     public function index()
     {
     $this->registerFunction(new TestFunction("test"));
     $this->registerHeader(new TestHeader());
