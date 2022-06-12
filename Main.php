@@ -1,6 +1,6 @@
 <?php
 
-/**The phpPlus project is a PHP library originally designed to allow you to
+/** The phpPlus project is a PHP library originally designed to allow you to
  * to design static websites with PHP. But it also has many other functions
  * and is constantly being developed
  *
