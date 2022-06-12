@@ -50,4 +50,31 @@ now we can register our classes in this function. But first you have to know tha
 
 </code>
 
+ <h6>More about the classes and functions:</h6>
+ 
+ phpPlus is built in special functions, so the code must always be in these functions or the code to create the static. To each function belongs a function file this has the ending <code> extends BaseFunction </code>. In this can be under the index functions, where you can type the code for your website.
+ 
+# Lets write our first Website!
+ 
+ Now that we have registered the function and created the file as well as implemented the index function we can start with the design. 
 
+<h6> Look </h6>
+
+with $this->getLook() we can now access functions which are known from e.g. CSS. 
+
+<h6> Other elements </h6>
+
+The other possibilities are mainly things that are more known from e.g. HTML. 
+
+<h6> Implement functions </h6>
+
+The implementation of other functions, so that their design is taken over is done by the function importFunction.
+
+
+# Header 
+ 
+ Of course, a website consists not only of things that we can see directly, but also of those that are somewhat more hidden. For this part of the HTML also known as the head part, there is also a file that ends in the extension <code> extends Header </code>. Here we can enter the information such as title,...
+of the page. In terms of structure, it is very similar to the functions. We can also write our code here under the index function.
+
+ 
+  
