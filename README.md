@@ -13,13 +13,24 @@ To use phpPlus you first need PHP on your computer. If you have installed it, na
 
 To write your first pogram you have to open the file <code> base.php </code>.   Now you can write in the function index your code that will be executed at startup here you can e.g. define classes, eg:
 
-<code>  public function index()
+<code>  
+    public function index()
     {
         $this->registerFunction(new TestFunction("test"));
         $this->registerHeader(new TestHeader());
         $this->registerListener(new Listener(new TestEvent()));
         /** this is executed when boot.php */
-    } </code>
+    }
+
+</code>
+
+s
+s
+s
+s
+s
+s
+
 
 
 
