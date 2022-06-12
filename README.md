@@ -21,7 +21,7 @@ To write your first pogram you have to open the file <code> base.php </code>.   
     $this->registerHeader(new TestHeader());
     $this->registerListener(new Listener(new TestEvent()));
     /** this is executed when boot.php */
-    }</p>
+    }
 
 </code>
 
