@@ -33,3 +33,21 @@ If we now open this file we can see that there is already a function preserved, 
 
 <img src= "https://github.com/phpPlus-Officiall/phpPlus/blob/main/screens/index.png">
 
+<h6>Class registration</h6>
+
+now we can register our classes in this function. But first you have to know that all classes are in the <code> src </code> folder. Here are already the folders for <code> events,header and functions pre-registered.we recommend to use these folders also correctly.
+ 
+ Now we can regulate our classes here is an example of it: 
+ <code>  
+    
+     public function index()
+    {
+    $this->registerFunction(new TestFunction("test"));
+    $this->registerHeader(new TestHeader());
+    $this->registerListener(new Listener(new TestEvent()));
+    /** this is executed when boot.php */
+    }
+
+</code>
+
+
