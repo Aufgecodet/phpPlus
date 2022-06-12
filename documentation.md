@@ -1,6 +1,9 @@
 
 <img src= "https://github.com/phpPlus-Officiall/phpPlus/blob/main/baselogo.jpg">
-# Documentation
+
+
+
+<h6> Documentation </h6>
 
 # requirements
  -  200MB RAM
