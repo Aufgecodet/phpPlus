@@ -76,7 +76,7 @@ The implementation of other functions, so that their design is taken over is don
  Of course, a website consists not only of things that we can see directly, but also of those that are somewhat more hidden. For this part of the HTML also known as the head part, there is also a file that ends in the extension <code> extends Header </code>. Here we can enter the information such as title,...
 of the page. In terms of structure, it is very similar to the functions. We can also write our code here under the index function.
 
-#execute 
+# execute 
  You already know from part install how to execute the boot file, so you just do that now. Now if you have done everything correctly should generate under <code> /phpplus/index.html</code> your website code in HTML and CSS. You can rename this file or upload it to your webserver. 
  
   <img src= "https://cloud.githubusercontent.com/assets/6291467/26705903/96c2d66e-477c-11e7-9f4e-f3c0efe96c9a.png">   Join our <a href = "https://discord.gg/zjFpVGzXxM">Discord</a> if you have any questions, we will be happy to help you!
