@@ -9,7 +9,7 @@ is a PHP library that allows you to create static websites with PHP but has many
 To use phpPlus you first need PHP on your computer. If you have installed it, navigate to the folder and execute the following command <code> php base.php</code>.
 
 
-#Write your first programm
+# Write your first programm
 
 To write your first pogram you have to open the file <code> base.php </code>.   Now you can write in the function index your code that will be executed at startup here you can e.g. define classes, eg:
 
@@ -24,5 +24,5 @@ To write your first pogram you have to open the file <code> base.php </code>.   
     }
 </code>
 
-Translated with www.DeepL.com/Translator (free version)
+
 
