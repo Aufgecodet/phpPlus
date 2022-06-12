@@ -26,6 +26,6 @@ To write your first pogram you have to open the file <code> base.php </code>.   
 </code>
 
 
-<img src= "https://cloud.githubusercontent.com/assets/6291467/26705903/96c2d66e-477c-11e7-9f4e-f3c0efe96c9a.png">
+<img src= "https://cloud.githubusercontent.com/assets/6291467/26705903/96c2d66e-477c-11e7-9f4e-f3c0efe96c9a.png">   Join Our Discord!
 
 
