@@ -6,7 +6,7 @@ is a PHP library that allows you to create static websites with PHP but has many
 
 # Install
 
-To use phpPlus you first need PHP on your computer. If you have installed it, navigate to the folder and execute the following command <code> php base.php</code>.
+To use phpPlus you first need PHP 8 on your computer. If you have installed it, navigate to the folder and execute the following command <code> php base.php</code>.
 
 
 # Write your first programm
