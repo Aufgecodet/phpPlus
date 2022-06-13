@@ -78,7 +78,11 @@ class Look{
         return new Border($this);
     }
 
-    public function adnimation():Animation{
+    /**
+     * @return Animation
+     *
+     */
+    public function animation():Animation{
         return  new Animation($this);
 
     }

@@ -10,7 +10,7 @@
  *
  */
 
-namespace phpplus\autload;
+namespace phpplus\autoload;
 
 /**
  * @internal

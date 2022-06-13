@@ -13,7 +13,7 @@
 namespace phpplus\autoload;
 
 
-use PHPPlus\autload\Autoloadable;
+use phpplus\autoload\Autoloadable;
 use function file_exists;
 use function serialize;
 use function spl_autoload_register;
@@ -22,7 +22,7 @@ use const DIRECTORY_SEPARATOR;
 
 final class DynamicAutoloader implements Autoloadable
 {
-    /** Autloader by Himmelkreis */
+    /** Autoloader by Himmelkreis */
     /**
      * @var array $loadElements
      * @phpstan-var    array<string>
