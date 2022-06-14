@@ -14,8 +14,7 @@ To use phpPlus you first need PHP 8 on your computer. If you have installed it, 
 
 To write your first pogram you have to open the file <code> base.php </code>.   Now you can write in the function index your code that will be executed at startup here you can e.g. define classes, eg:
 
-<code>  
-    
+    ```php
      public function index()
     {
     $this->registerFunction(new TestFunction("test"));
@@ -23,8 +22,7 @@ To write your first pogram you have to open the file <code> base.php </code>.   
     $this->registerListener(new Listener(new TestEvent()));
     /** this is executed when boot.php */
     }
-
-</code>
+```
 
 # Bugs and Suggestions
 
